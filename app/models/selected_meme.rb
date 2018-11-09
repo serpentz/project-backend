@@ -1,0 +1,2 @@
+class SelectedMeme < ApplicationRecord
+end
